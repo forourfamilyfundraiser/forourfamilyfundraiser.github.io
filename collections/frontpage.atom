@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://forourfamily.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://forourfamily.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://forourfamily.org/collections/frontpage.atom"/>
+  <title>For Our Family</title>
+  <updated>2025-08-22T12:40:37-04:00</updated>
+  <author>
+    <name>For Our Family</name>
+  </author>
+  <entry>
+    <id>https://forourfamily.org/products/8405323350213</id>
+    <published>2025-08-22T12:40:37-04:00</published>
+    <updated>2025-08-22T12:40:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/watermelon-embroidered-classic-dad-cap-1"/>
+    <title>Watermelon Embroidered Classic Dad Cap</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Yupoong</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/6891066161499016361_2048_2900fcf5-36d9-4c22-8f34-749564152d78.jpg?v=1755880873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yupoong<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Care instructions</strong>: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>Black / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>19447327280422669986</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>Dark Grey / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>16082588847439418753</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>Khaki / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>28490397792849682230</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>Light Blue / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>23694881730557297885</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>Stone / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>87649260146302605003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8405323350213</id>
+      <title>White / One size</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>64342328508051646339</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://forourfamily.org/products/8402879905989</id>
+    <published>2025-08-19T01:34:49-04:00</published>
+    <updated>2025-08-19T01:34:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/copy-of-vintage-palestinian-heritage-hoodie"/>
+    <title>Vintage Palestinian Heritage Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Lane Seven</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/9251854202231596930_2048_07f2f214-6e02-4a78-8fa8-96688488231d.jpg?v=1755582064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lane Seven<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Care instructions</strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual wear</s:tag>
+    <s:tag>comfortable outfit</s:tag>
+    <s:tag>cozy winter wear</s:tag>
+    <s:tag>everyday fashion</s:tag>
+    <s:tag>fleece hoodie</s:tag>
+    <s:tag>gift for activists</s:tag>
+    <s:tag>graphic hoodie</s:tag>
+    <s:tag>hoodie for men</s:tag>
+    <s:tag>hoodie for women</s:tag>
+    <s:tag>political statement</s:tag>
+    <s:tag>street style</s:tag>
+    <s:tag>stylish outerwear</s:tag>
+    <s:tag>unique apparel</s:tag>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>S / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>39692827341457409049</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>S / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>16556566826969932728</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>S / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>12994952232683094306</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>S / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>85063196695017507184</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>S / Sports Green</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>55405714603525289307</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>M / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>11649689153571008795</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>M / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>61476912239916304498</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>M / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>28663371790890197044</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>M / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>16157064925561048126</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>M / Sports Green</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>75554459020098018165</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>L / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>30186290145034148130</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>L / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>16173403484730352497</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>L / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>28814904505690787057</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>L / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>21793629758884202445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>L / Sports Green</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>10354589975661025224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>XL / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>13274454546637016109</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>XL / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>37132134007424252242</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>XL / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>29429953456862757494</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>XL / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>13643904432519716082</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>XL / Sports Green</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>18166773031409734948</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>2XL / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>54598929249066537924</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>2XL / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>12009983119999159095</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>2XL / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>12790827295426801823</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>12851777155526873334</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>2XL / Sports Green</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>24730977211042768242</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>3XL / Charcoal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>73202583909771634145</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>3XL / Oatmeal Heather</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>16599640599624291808</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>3XL / Pale Pink</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>44618644190476897067</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879905989</id>
+      <title>3XL / White</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>10782180934021072576</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://forourfamily.org/products/8402879709381</id>
+    <published>2025-08-19T01:33:13-04:00</published>
+    <updated>2025-08-19T01:33:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/copy-of-embroidered-palestine-t-shirt"/>
+    <title>Embroidered Palestine T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Comfort Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/3198016113320418119_2048.jpg?v=1755796972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfort Colors<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Care instructions</strong>: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artistic Apparel</s:tag>
+    <s:tag>Casual Wear</s:tag>
+    <s:tag>Comfortable Clothing</s:tag>
+    <s:tag>Eco Friendly Fashion</s:tag>
+    <s:tag>Everyday Tee</s:tag>
+    <s:tag>Festival Clothing</s:tag>
+    <s:tag>Garment Dyed T-shirt</s:tag>
+    <s:tag>Gift for Her</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Minimalist Design</s:tag>
+    <s:tag>Summer Outfits</s:tag>
+    <s:tag>Travel T-shirt</s:tag>
+    <s:tag>Unisex Fashion</s:tag>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>25573389243022336892</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Crunchberry / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>29642868223077867114</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>13532885785089178015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>29983896500930809990</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Khaki / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>86756977814489985048</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>19819685001205628190</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>28577666836099257435</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>82653778908210708995</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Crunchberry / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>27143168625253037410</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>33723128478104951951</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>32610502260005485892</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>26374979919968350833</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>15687453416115769603</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Terracotta / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>13070181765508976000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>32218817382745822421</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>90485615747273137036</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Crunchberry / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>18968883391223623631</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>12992502289484529858</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>86787085721132208226</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>25134343344345985425</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>22848795049982155437</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Terracotta / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>22452627205870493037</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>99160377867239575877</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>30172640655022537366</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Crunchberry / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>27904606475209323556</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>42260945802200205647</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>18644872655713305098</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Khaki / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>26238639747724444878</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>10410076233924366425</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Terracotta / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>29550463310771361502</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>20231294805011168750</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>11896264010853852502</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Crunchberry / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>13440493330902760157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>13861925227669384530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>31930753251935670453</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Khaki / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>77796759023356450770</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>26520355251654810565</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Terracotta / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>28772439489653168503</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / 2XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>45980280027171300282</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / 3XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>22402925635373560833</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / 3XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>22919331599257673617</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Orchid / 3XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>12910672745280869887</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Watermelon / 3XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>89084249128782481510</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>10953360891906662324</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Bay / 4XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>46133899833933708266</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>Grey / 4XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>23494293551628399254</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879709381</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>11457522000267704240</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://forourfamily.org/products/8402879381701</id>
+    <published>2025-08-19T01:30:22-04:00</published>
+    <updated>2025-08-19T01:30:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/copy-of-free-palestine-logo-t-shirt"/>
+    <title>Free Palestine Logo T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Comfort Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/12051538603709357009_2048_610dca89-1a55-46aa-bc05-3d47385a0764.jpg?v=1755581205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfort Colors<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Care instructions</strong>: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Crew neck</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Embroidery</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:tag>Personalization Picks</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Premium Apparel</s:tag>
+    <s:tag>Simple designs on large embroidery</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>US Elections Season</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>15150891425244215994</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18343288864329284954</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>29669923294252018079</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18801819357844602721</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>30392662990428192606</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>17607601722451316552</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>13738884349202862931</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>32645973625854038891</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>27868636439798227592</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>12472724038173622578</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>16268548719975399341</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18961171269553977763</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>30261299919198221568</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18447801041024745327</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>64237091127752884601</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>21676630783684461006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>14650180759362229261</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>13588384489502366996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>29918802208759340824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>13193788944270610898</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>19437240797330363393</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>29951762131600996379</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>12331130160976469788</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>26862009844746209176</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>10999545347302252033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>27831114960520556901</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>15483303214823452918</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>32036061087860220253</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22097274824837558335</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>12088454653526175061</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Blue Jean / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>17342355120743961634</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Ivory / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>19324562781291483615</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Sage / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>28808144910447954986</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>Terracotta / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>26819033733936159708</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8402879381701</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18383881096147515962</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://forourfamily.org/products/8399173255365</id>
+    <published>2025-08-14T08:44:01-04:00</published>
+    <updated>2025-08-14T08:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/empowering-sticker-sheets-free-palestine-designs-great-for-journals-scrapbooking-gift-wrap-and-decor"/>
+    <title>Sticker Sheets - Empowering Palestine Designs</title>
+    <s:type>Paper products</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/8837803658701208749_2048.jpg?v=1755178633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Paper products<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Care instructions</strong>: Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activism Decor</s:tag>
+    <s:tag>Artistic Stickers</s:tag>
+    <s:tag>Colorful Designs</s:tag>
+    <s:tag>Cultural Awareness</s:tag>
+    <s:tag>Free Palestine</s:tag>
+    <s:tag>Gift for Activists</s:tag>
+    <s:tag>Home Office Decor</s:tag>
+    <s:tag>Organizational Aids</s:tag>
+    <s:tag>Political Stickers</s:tag>
+    <s:tag>Social Justice</s:tag>
+    <s:tag>Sticker Collection</s:tag>
+    <s:tag>Sticker Sheets</s:tag>
+    <s:tag>Unique Stickers</s:tag>
+    <s:variant>
+      <id>https://forourfamily.org/products/8399173255365</id>
+      <title>6&quot; × 4&quot; / White / Die-Cut</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>25996443379487327464</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8399173255365</id>
+      <title>6&quot; × 4&quot; / Holographic / Die-Cut</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27570858800696649493</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://forourfamily.org/products/8391157121221</id>
+    <published>2025-08-02T16:43:39-04:00</published>
+    <updated>2025-08-02T16:43:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://forourfamily.org/products/vintage-palestinian-heritage-t-shirt"/>
+    <title>Vintage Palestinian Heritage T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Comfort Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0720/0987/5653/files/2530876888729267884_2048.jpg?v=1755582593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfort Colors<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="icons grid ng-star-inserted" data-testid="careSetsIcons">
+<p class="col--auto ng-star-inserted" data-testid="careSetsIcon"><strong>Care instructions: </strong>Machine wash: cold (max 30C or 90F); Do not bleach; Tumble dry: low heat; Iron, steam or dry: low heat; Do not dryclean.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artistic design</s:tag>
+    <s:tag>casual wear</s:tag>
+    <s:tag>eco friendly apparel</s:tag>
+    <s:tag>fashion statement</s:tag>
+    <s:tag>free palestine</s:tag>
+    <s:tag>garment dyed</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>political t-shirt</s:tag>
+    <s:tag>streetwear style</s:tag>
+    <s:tag>stylish activism</s:tag>
+    <s:tag>summer outfit</s:tag>
+    <s:tag>unique gift idea</s:tag>
+    <s:tag>unisex t-shirt</s:tag>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>28602026740080816157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>30187649809706277266</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>63826971897439939297</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>25620696093221986566</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>13620461225577344370</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22996760696833139996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>65272504096900655126</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>58327758996630630836</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>17788790586465091366</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>29861645406784496667</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22446330065030687169</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>32528887825909115930</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18150485125245065802</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22862796797642020870</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>31580901143280438837</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>23321032296098899663</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>12953160993108807445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18676393234263166315</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>73008336066726713469</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>18894672218982514450</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22778705077301275612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>14676114034796828556</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>28622875489960329938</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>17505586933327271673</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>88273081526731740255</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>17428797823683055518</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>30222411693014024419</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>27738814100524992941</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>11761079811312149727</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>12670022971554557730</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>25538257482616343730</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>14350065985370006577</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>32273623726779299656</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>28386051390380090435</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>19065271088334822150</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>14169269149963385211</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>82408667454448239551</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>28521342588800593683</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>31138759353547488067</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>22926161727704065392</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>30466066541374098782</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / 3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>10847170952097993754</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>80687879926799621554</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Chili / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>55876070806560734082</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Hemp / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>69481347826801098516</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Midnight / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>49547574027113599610</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Terracotta / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>24878006010948190280</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>31181330357945080619</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://forourfamily.org/products/8391157121221</id>
+      <title>Yam / 4XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>19526131510392599929</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
